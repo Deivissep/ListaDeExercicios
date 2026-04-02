@@ -1,0 +1,15 @@
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\bin\Debug\net10.0\Exercicio01.ConsoleApp.exe
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\bin\Debug\net10.0\Exercicio01.ConsoleApp.deps.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\bin\Debug\net10.0\Exercicio01.ConsoleApp.runtimeconfig.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\bin\Debug\net10.0\Exercicio01.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\bin\Debug\net10.0\Exercicio01.ConsoleApp.pdb
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.AssemblyInfoInputs.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.AssemblyInfo.cs
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.sourcelink.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\refint\Exercicio01.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.pdb
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\Exercicio01.ConsoleApp.genruntimeconfig.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio01.ConsoleApp\obj\Debug\net10.0\ref\Exercicio01.ConsoleApp.dll
