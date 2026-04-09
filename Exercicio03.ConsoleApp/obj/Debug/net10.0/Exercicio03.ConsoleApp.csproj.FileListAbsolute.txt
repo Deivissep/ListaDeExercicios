@@ -1,0 +1,15 @@
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.AssemblyInfoInputs.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.AssemblyInfo.cs
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.sourcelink.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\bin\Debug\net10.0\Exercicio03.ConsoleApp.exe
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\bin\Debug\net10.0\Exercicio03.ConsoleApp.deps.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\bin\Debug\net10.0\Exercicio03.ConsoleApp.runtimeconfig.json
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\bin\Debug\net10.0\Exercicio03.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\bin\Debug\net10.0\Exercicio03.ConsoleApp.pdb
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\refint\Exercicio03.ConsoleApp.dll
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.pdb
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\Exercicio03.ConsoleApp.genruntimeconfig.cache
+G:\Academia do Programador\C#\ListaDeExercicios\Exercicio03.ConsoleApp\obj\Debug\net10.0\ref\Exercicio03.ConsoleApp.dll
